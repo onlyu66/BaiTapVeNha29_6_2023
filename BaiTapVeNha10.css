@@ -1,0 +1,38 @@
+img {
+  width: 335px;
+  height: 335px;
+  object-fit: cover;
+  left: 8px;
+  top: -5px;
+}
+#a {
+  border: 1px solid rgb(195, 185, 185);
+  /* display: inline-block; */
+  padding: 20px 20px 50px 20px;
+  border-radius: 166px 166px 15px 15px;
+  height: 420px;
+  width: 290px;
+}
+#a1 {
+  background-color: #c12a2e;
+  border: 1px solid #c12a2e;
+  border-radius: 150px 150px 30px 30px;
+  width: 290px;
+  height: 300px;
+}
+#a2 {
+  font-weight: 600;
+}
+.a3 {
+  line-height: 0.5;
+}
+img,
+#a1,
+#a
+{
+  position: fixed;
+}
+#a2{
+    display: block;
+    margin: 320px 0 0 0 ;
+}

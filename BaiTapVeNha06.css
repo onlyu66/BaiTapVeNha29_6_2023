@@ -1,0 +1,28 @@
+ol{
+    list-style-position: inside;
+}
+ol li{
+    font-weight: 600;
+    font-size: 25px;
+    padding: 10px 20px;
+}
+ol li p{
+    font-weight: 100;
+    list-style-type: none;
+    text-indent: 23px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ol li sup{
+    background-color: #116cf4;
+    color: white;
+    padding: 5px 13px;
+    border-radius: 15px;
+    font-weight: 600;
+}
+table{
+    border-radius: 9px;
+    border-color: rgb(212, 200, 200);
+}

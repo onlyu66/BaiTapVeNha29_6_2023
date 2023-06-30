@@ -1,0 +1,16 @@
+#a {
+  width: 170px;
+  height: 300px;
+  object-fit: cover;
+  object-position: 70% 50%;
+}
+#b {
+  width: 180px;
+  height: 300px;
+  object-fit: cover;
+  object-position: 40% 100%;
+}
+#anh {
+  display: flex;
+    
+}
